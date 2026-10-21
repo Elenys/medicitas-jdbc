@@ -1,0 +1,5 @@
+# Copie este archivo como config/db.properties y ajuste los datos de su base de datos.
+# Con el entorno Docker de MediCitas (docker compose up) estos valores funcionan tal cual.
+db.url=jdbc:postgresql://localhost:5432/medicitas
+db.usuario=medicitas
+db.clave=medicitas

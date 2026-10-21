@@ -1,0 +1,7 @@
+# Configuración local con credenciales: no se versiona
+config/db.properties
+# Compilados
+out/
+target/
+*.class
+.DS_Store
